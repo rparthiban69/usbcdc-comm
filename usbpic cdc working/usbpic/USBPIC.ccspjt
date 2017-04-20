@@ -1,0 +1,10 @@
+[ExtraIncludes]
+Count=1
+1=usbpic=g:\working\proteus\usb\usbpic cdc working\usbpic\kbd_lib.c
+[Opened Files]
+1=USBPIC.c
+2=C:\Program Files\PICC\Drivers\usb_cdc.h
+3=C:\Program Files\PICC\Drivers\usb_desc_cdc.h
+4=..\..\18f4550 usb 2 WORKING\main.c
+5=C:\Program Files\PICC\Drivers\usb_desc_hid.h
+6=
